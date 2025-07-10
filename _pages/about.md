@@ -11,4 +11,4 @@ Hello! I'm Ben Przybocki, an incoming PhD student in computer science at CMU. My
 
 I previously completed an MPhil in Advanced Computer Science at Cambridge, which was funded by a Churchill Scholarship. My master's thesis, advised by [Tobias Grosser](https://grosser.science/), was on decision procedures for arithmetic problems, including implementations in the Lean proof assistant. Before that, I received a BS in mathematics from Stanford. My bachelor's thesis, advised by [Clark Barrett](https://theory.stanford.edu/~barrett/), studied theoretical aspects of SMT solving, namely theory combination and word equations. Earlier in my undergrad, I researched combinatorics.
 
-If you want to talk about research, free to get in touch!
+If you want to talk about research, feel free to get in touch!

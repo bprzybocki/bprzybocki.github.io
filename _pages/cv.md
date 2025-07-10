@@ -14,7 +14,7 @@ A full CV is available upon request.
 Education
 ======
 * Carnegie Mellon University, 2025&ndash;  
-  PhD in computer science
+  PhD student in computer science
 * University of Cambridge, 2024&ndash;2025  
   MPhil in Advanced Computer Science, graduated with distinction
 * Stanford University, 2019&ndash;2024  
