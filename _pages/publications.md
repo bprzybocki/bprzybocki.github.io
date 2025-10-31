@@ -12,10 +12,10 @@ You can find my papers on [arXiv](https://arxiv.org/a/przybocki_b_1.html).
 Publications
 ======
 **Shininess, strong politeness, and unicorns**  
-Benjamin Przybocki, Guilherme V. Toledo, and Yoni Zohar. *FroCoS 2025*.
+Benjamin Przybocki, Guilherme V. Toledo, and Yoni Zohar. *FroCoS 2025*. **[Best Paper]**
 
 **Being polite is not enough (and other limits of theory combination)**  
-Guilherme V. Toledo, Benjamin Przybocki, and Yoni Zohar. *CADE 2025*.
+Guilherme V. Toledo, Benjamin Przybocki, and Yoni Zohar. *CADE 2025*. **[Best Student Paper]**
 
 **The nonexistence of unicorns and many-sorted Löwenheim–Skolem theorems**  
 Benjamin Przybocki, Guilherme V. Toledo, Yoni Zohar, and Clark Barrett. *FM 2024*.
