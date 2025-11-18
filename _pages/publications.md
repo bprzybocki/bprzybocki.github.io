@@ -34,6 +34,9 @@ Xiaoyu He, Yuzu Ido, and Benjamin Przybocki. *Electron. J. Combin.*, 29(1):Paper
 
 Preprints
 ======
+**Optimal and efficient partite decompositions of hypergraphs**  
+Andrew Krapivin, Benjamin Przybocki, Nicolás Sanhueza-Matamala, and Bernardo Subercaseaux. *preprint* 2025+.
+
 **The termination of Nielsen transformations applied to word equations with length constraints**  
 Benjamin Przybocki and Clark Barrett. *preprint* 2025+.
 
