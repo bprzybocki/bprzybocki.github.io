@@ -11,6 +11,9 @@ You can find my papers on [arXiv](https://arxiv.org/a/przybocki_b_1.html).
 
 Publications
 ======
+**Characterizing sets of theories that can be disjointly combined**  
+Benjamin Przybocki, Guilherme V. Toledo, and Yoni Zohar. *POPL 2026*.
+
 **Shininess, strong politeness, and unicorns**  
 Benjamin Przybocki, Guilherme V. Toledo, and Yoni Zohar. *FroCoS 2025*. **[Best Paper]**
 
