@@ -11,6 +11,9 @@ You can find my papers on [arXiv](https://arxiv.org/a/przybocki_b_1.html).
 
 Publications
 ======
+**Optimal and efficient partite decompositions of hypergraphs**  
+Andrew Krapivin, Benjamin Przybocki, Nicolás Sanhueza-Matamala, and Bernardo Subercaseaux. *STOC 2026*.
+
 **Characterizing sets of theories that can be disjointly combined**  
 Benjamin Przybocki, Guilherme V. Toledo, and Yoni Zohar. *POPL 2026*.
 
@@ -37,10 +40,10 @@ Xiaoyu He, Yuzu Ido, and Benjamin Przybocki. *Electron. J. Combin.*, 29(1):Paper
 
 Preprints
 ======
-**Optimal and efficient partite decompositions of hypergraphs**  
-Andrew Krapivin, Benjamin Przybocki, Nicolás Sanhueza-Matamala, and Bernardo Subercaseaux. *preprint* 2025+.
+**Accelerating Scientific Research with Gemini: Case Studies and Common Techniques**  
+David P. Woodruff, Vincent Cohen-Addad, Lalit Jain, Jieming Mao, Song Zuo, MohammadHossein Bateni, Simina Branzei, Michael P. Brenner, Lin Chen, Ying Feng, Lance Fortnow, Gang Fu, Ziyi Guan, Zahra Hadizadeh, Mohammad T. Hajiaghayi, Mahdi JafariRaviz, Adel Javanmard, Karthik C. S., Ken-ichi Kawarabayashi, Ravi Kumar, Silvio Lattanzi, Euiwoong Lee, Yi Li, Ioannis Panageas, Dimitris Paparas, Benjamin Przybocki, Bernardo Subercaseaux, Ola Svensson, Shayan Taherijam, Xuan Wu, Eylon Yogev, Morteza Zadimoghaddam, Samson Zhou, and Vahab Mirrokni. *preprint* 2026.
 
 **The termination of Nielsen transformations applied to word equations with length constraints**  
-Benjamin Przybocki and Clark Barrett. *preprint* 2025+.
+Benjamin Przybocki and Clark Barrett. *preprint* 2025.
 
 My Erdős number is 3.
