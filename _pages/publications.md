@@ -11,6 +11,9 @@ You can find my papers on [arXiv](https://arxiv.org/a/przybocki_b_1.html).
 
 Publications
 ======
+**The termination of Nielsen transformations applied to word equations with length constraints**  
+Benjamin Przybocki and Clark Barrett. *IJCAR 2026*.
+
 **Optimal and efficient partite decompositions of hypergraphs**  
 Andrew Krapivin, Benjamin Przybocki, Nicolás Sanhueza-Matamala, and Bernardo Subercaseaux. *STOC 2026*.
 
@@ -40,10 +43,16 @@ Xiaoyu He, Yuzu Ido, and Benjamin Przybocki. *Electron. J. Combin.*, 29(1):Paper
 
 Preprints
 ======
-**Accelerating Scientific Research with Gemini: Case Studies and Common Techniques**  
-David P. Woodruff, Vincent Cohen-Addad, Lalit Jain, Jieming Mao, Song Zuo, MohammadHossein Bateni, Simina Branzei, Michael P. Brenner, Lin Chen, Ying Feng, Lance Fortnow, Gang Fu, Ziyi Guan, Zahra Hadizadeh, Mohammad T. Hajiaghayi, Mahdi JafariRaviz, Adel Javanmard, Karthik C. S., Ken-ichi Kawarabayashi, Ravi Kumar, Silvio Lattanzi, Euiwoong Lee, Yi Li, Ioannis Panageas, Dimitris Paparas, Benjamin Przybocki, Bernardo Subercaseaux, Ola Svensson, Shayan Taherijam, Xuan Wu, Eylon Yogev, Morteza Zadimoghaddam, Samson Zhou, and Vahab Mirrokni. *preprint* 2026.
+**Doubly saturated Ramsey graphs: A case study in computer-assisted mathematical discovery**  
+Benjamin Przybocki, John Mackey, Marijn J. H. Heule, and Bernardo Subercaseaux. *preprint* 2026.
 
-**The termination of Nielsen transformations applied to word equations with length constraints**  
-Benjamin Przybocki and Clark Barrett. *preprint* 2025.
+**Automated reencoding meets graph theory**  
+Benjamin Przybocki, Bernardo Subercaseaux, and Marijn J. H. Heule. *preprint* 2026.
+
+**Near-optimal encodings of cardinality constraints**  
+Andrew Krapivin, Benjamin Przybocki, and Bernardo Subercaseaux. *preprint* 2026.
+
+**Accelerating scientific research with Gemini: Case studies and common techniques**  
+David P. Woodruff, Vincent Cohen-Addad, Lalit Jain, Jieming Mao, Song Zuo, MohammadHossein Bateni, Simina Branzei, Michael P. Brenner, Lin Chen, Ying Feng, Lance Fortnow, Gang Fu, Ziyi Guan, Zahra Hadizadeh, Mohammad T. Hajiaghayi, Mahdi JafariRaviz, Adel Javanmard, Karthik C. S., Ken-ichi Kawarabayashi, Ravi Kumar, Silvio Lattanzi, Euiwoong Lee, Yi Li, Ioannis Panageas, Dimitris Paparas, Benjamin Przybocki, Bernardo Subercaseaux, Ola Svensson, Shayan Taherijam, Xuan Wu, Eylon Yogev, Morteza Zadimoghaddam, Samson Zhou, and Vahab Mirrokni. *preprint* 2026.
 
 My Erdős number is 3.
