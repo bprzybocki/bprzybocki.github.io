@@ -11,6 +11,12 @@ You can find my papers on [arXiv](https://arxiv.org/a/przybocki_b_1.html).
 
 Publications
 ======
+**Automated reencoding meets graph theory**  
+Benjamin Przybocki, Bernardo Subercaseaux, and Marijn J. H. Heule. *SAT 2026*.
+
+**Near-optimal encodings of cardinality constraints**  
+Andrew Krapivin, Benjamin Przybocki, and Bernardo Subercaseaux. *SAT 2026*.
+
 **The termination of Nielsen transformations applied to word equations with length constraints**  
 Benjamin Przybocki and Clark Barrett. *IJCAR 2026*.
 
@@ -45,12 +51,6 @@ Preprints
 ======
 **Doubly saturated Ramsey graphs: A case study in computer-assisted mathematical discovery**  
 Benjamin Przybocki, John Mackey, Marijn J. H. Heule, and Bernardo Subercaseaux. *preprint* 2026.
-
-**Automated reencoding meets graph theory**  
-Benjamin Przybocki, Bernardo Subercaseaux, and Marijn J. H. Heule. *preprint* 2026.
-
-**Near-optimal encodings of cardinality constraints**  
-Andrew Krapivin, Benjamin Przybocki, and Bernardo Subercaseaux. *preprint* 2026.
 
 **Accelerating scientific research with Gemini: Case studies and common techniques**  
 David P. Woodruff, Vincent Cohen-Addad, Lalit Jain, Jieming Mao, Song Zuo, MohammadHossein Bateni, Simina Branzei, Michael P. Brenner, Lin Chen, Ying Feng, Lance Fortnow, Gang Fu, Ziyi Guan, Zahra Hadizadeh, Mohammad T. Hajiaghayi, Mahdi JafariRaviz, Adel Javanmard, Karthik C. S., Ken-ichi Kawarabayashi, Ravi Kumar, Silvio Lattanzi, Euiwoong Lee, Yi Li, Ioannis Panageas, Dimitris Paparas, Benjamin Przybocki, Bernardo Subercaseaux, Ola Svensson, Shayan Taherijam, Xuan Wu, Eylon Yogev, Morteza Zadimoghaddam, Samson Zhou, and Vahab Mirrokni. *preprint* 2026.
