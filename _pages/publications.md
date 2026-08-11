@@ -11,6 +11,9 @@ You can find my papers on [arXiv](https://arxiv.org/a/przybocki_b_1.html).
 
 Publications
 ======
+**A SAT attack on Tarski's high school algebra problem**  
+Bernardo Subercaseaux and Benjamin Przybocki. *LPAR 2026*.
+
 **Toward satisfiability modulo realizability**  
 Andrew Krapivin, Benjamin Przybocki, and Marijn J. H. Heule. *CICM 2026*.
 
