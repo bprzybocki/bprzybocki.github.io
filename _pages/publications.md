@@ -11,11 +11,14 @@ You can find my papers on [arXiv](https://arxiv.org/a/przybocki_b_1.html).
 
 Publications
 ======
+**Coloring queens with thousands of encodings**  
+Bernardo Subercaseaux, Benjamin Przybocki, and Marijn J. H. Heule. *LPAR 2026*.
+
 **A SAT attack on Tarski's high school algebra problem**  
 Bernardo Subercaseaux and Benjamin Przybocki. *LPAR 2026*.
 
 **Toward satisfiability modulo realizability**  
-Andrew Krapivin, Benjamin Przybocki, and Marijn J. H. Heule. *CICM 2026*.
+Andrew Krapivin, Benjamin Przybocki, and Marijn J. H. Heule. *CICM 2026*. **[Best Paper]**
 
 **Doubly saturated Ramsey graphs: A case study in computer-assisted mathematical discovery**  
 Benjamin Przybocki, John Mackey, Marijn J. H. Heule, and Bernardo Subercaseaux. *CICM 2026*.

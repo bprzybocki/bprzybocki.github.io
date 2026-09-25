@@ -22,6 +22,7 @@ Education
 
 Selected awards
 ======
+* CICM Best Paper, 2026
 * FroCoS Best Paper, 2025
 * CADE Best Student Paper, 2025
 * Churchill Scholarship, 2024
