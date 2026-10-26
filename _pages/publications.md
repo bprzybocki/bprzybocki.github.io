@@ -15,7 +15,7 @@ Publications
 Bernardo Subercaseaux, Benjamin Przybocki, and Marijn J. H. Heule. *LPAR 2026*.
 
 **A SAT attack on Tarski's high school algebra problem**  
-Bernardo Subercaseaux and Benjamin Przybocki. *LPAR 2026*.
+Bernardo Subercaseaux and Benjamin Przybocki. *LPAR 2026*. **[Best Paper]**
 
 **Toward satisfiability modulo realizability**  
 Andrew Krapivin, Benjamin Przybocki, and Marijn J. H. Heule. *CICM 2026*. **[Best Paper]**
