@@ -64,6 +64,9 @@ Xiaoyu He, Yuzu Ido, and Benjamin Przybocki. *Electron. J. Combin.*, 29(1):Paper
 
 Preprints
 ======
+**From two heptagrams to a 449-vertex 5-chromatic unit-distance graph**  
+Marijn J. H. Heule and Benjamin Przybocki. *preprint* 2026.
+
 **The CNF encoding complexity of boolean functions**  
 Andrew Krapivin, Benjamin Przybocki, and Bernardo Subercaseaux. *preprint* 2026.
 
